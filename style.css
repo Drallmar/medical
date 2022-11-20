@@ -251,7 +251,7 @@ docto__part--left {
   padding: 95px 0;
 }
 
-form {
+.form {
   display: flex;
   flex-flow: column nowrap;
   align-items: center;
